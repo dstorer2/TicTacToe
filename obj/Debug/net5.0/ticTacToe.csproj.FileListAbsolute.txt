@@ -1,0 +1,15 @@
+/Users/davidstorer/Documents/code/practice/c#/ticTacToe/bin/Debug/net5.0/ticTacToe.deps.json
+/Users/davidstorer/Documents/code/practice/c#/ticTacToe/bin/Debug/net5.0/ticTacToe.runtimeconfig.json
+/Users/davidstorer/Documents/code/practice/c#/ticTacToe/bin/Debug/net5.0/ticTacToe.runtimeconfig.dev.json
+/Users/davidstorer/Documents/code/practice/c#/ticTacToe/bin/Debug/net5.0/ticTacToe.dll
+/Users/davidstorer/Documents/code/practice/c#/ticTacToe/bin/Debug/net5.0/ref/ticTacToe.dll
+/Users/davidstorer/Documents/code/practice/c#/ticTacToe/bin/Debug/net5.0/ticTacToe.pdb
+/Users/davidstorer/Documents/code/practice/c#/ticTacToe/obj/Debug/net5.0/ticTacToe.csproj.AssemblyReference.cache
+/Users/davidstorer/Documents/code/practice/c#/ticTacToe/obj/Debug/net5.0/ticTacToe.GeneratedMSBuildEditorConfig.editorconfig
+/Users/davidstorer/Documents/code/practice/c#/ticTacToe/obj/Debug/net5.0/ticTacToe.AssemblyInfoInputs.cache
+/Users/davidstorer/Documents/code/practice/c#/ticTacToe/obj/Debug/net5.0/ticTacToe.AssemblyInfo.cs
+/Users/davidstorer/Documents/code/practice/c#/ticTacToe/obj/Debug/net5.0/ticTacToe.csproj.CoreCompileInputs.cache
+/Users/davidstorer/Documents/code/practice/c#/ticTacToe/obj/Debug/net5.0/ticTacToe.dll
+/Users/davidstorer/Documents/code/practice/c#/ticTacToe/obj/Debug/net5.0/ref/ticTacToe.dll
+/Users/davidstorer/Documents/code/practice/c#/ticTacToe/obj/Debug/net5.0/ticTacToe.pdb
+/Users/davidstorer/Documents/code/practice/c#/ticTacToe/obj/Debug/net5.0/ticTacToe.genruntimeconfig.cache
